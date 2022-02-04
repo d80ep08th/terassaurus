@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/d80ep08th/terassaurus/compare/v1.0.0...v1.0.1) (2022-02-04)
+
+
+### Bug Fixes
+
+* prevent racing of requests ([1f11c97](https://github.com/d80ep08th/terassaurus/commit/1f11c97b25433a6c23fe107be82a759baebf77a4))
+
+
+
 # [1.0.0](https://github.com/d80ep08th/terassaurus/compare/v0.3.1...v1.0.0) (2022-02-04)
 
 
@@ -47,15 +56,6 @@
 ### Features
 
 * Added a docker-compose functionality ([2aade81](https://github.com/d80ep08th/terassaurus/commit/2aade81980b8c8e88e367a6b9dc2a4d3dd06b33f))
-
-
-
-# [0.1.0](https://github.com/d80ep08th/terassaurus/compare/1e029e1dd48c0dd5972949782f5ccf77219482a7...v0.1.0) (2022-02-04)
-
-
-### Bug Fixes
-
-* added a branch to try this ([1e029e1](https://github.com/d80ep08th/terassaurus/commit/1e029e1dd48c0dd5972949782f5ccf77219482a7))
 
 
 

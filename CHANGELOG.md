@@ -1,3 +1,17 @@
+# [1.0.0](https://github.com/d80ep08th/terassaurus/compare/v0.3.1...v1.0.0) (2022-02-04)
+
+
+### Features
+
+* allow provided config to extend over other configs ([f83dc31](https://github.com/d80ep08th/terassaurus/commit/f83dc313fcd1a0aa9dd2b849ee0aec70b13a40d3))
+
+
+### BREAKING CHANGES
+
+* My first feature will be released as a package
+
+
+
 ## [0.3.1](https://github.com/d80ep08th/terassaurus/compare/v0.3.0...v0.3.1) (2022-02-04)
 
 

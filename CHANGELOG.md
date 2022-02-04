@@ -1,3 +1,17 @@
+# [0.3.0](https://github.com/d80ep08th/terassaurus/compare/v0.2.0...v0.3.0) (2022-02-04)
+
+
+### Bug Fixes
+
+* removed a whole temporary directory that was made in first commit ([6dfa9fe](https://github.com/d80ep08th/terassaurus/commit/6dfa9fe82ea5e7ddf20c79ebca78b2f8aac640ec))
+
+
+### Features
+
+* **spider:** Added a spider python notebook ([fcf0018](https://github.com/d80ep08th/terassaurus/commit/fcf001839a63c01b18ffe1d419b6fa629480a0e3))
+
+
+
 # [0.2.0](https://github.com/d80ep08th/terassaurus/compare/v0.1.0...v0.2.0) (2022-02-04)
 
 

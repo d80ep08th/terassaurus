@@ -1,3 +1,13 @@
+## [0.3.1](https://github.com/d80ep08th/terassaurus/compare/v0.3.0...v0.3.1) (2022-02-04)
+
+
+### Bug Fixes
+
+* adding some files to bug folder ([8faa76c](https://github.com/d80ep08th/terassaurus/commit/8faa76cc078361f8f5ba1e48ad783987eb8bef4a))
+* **env:** added a build environment file ([0423894](https://github.com/d80ep08th/terassaurus/commit/042389498f2401fb8186407aaf8eaff6d17f0ed8))
+
+
+
 # [0.3.0](https://github.com/d80ep08th/terassaurus/compare/v0.2.0...v0.3.0) (2022-02-04)
 
 

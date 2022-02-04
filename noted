@@ -1,0 +1,34 @@
+
+  indexer:
+    container_name: feluda_indexer
+    build:
+      context: ./src/api
+      dockerfile: Dockerfile
+      target: debug
+    env_file: ./src/api/development.env
+    command: tail -f /dev/null
+    depends_on:
+      store:
+        condition: service_started
+      queue:
+        condition: service_started
+
+  reporter:
+    container_name: feluda_reporter
+    build:
+      context: ./src/api
+      dockerfile: Dockerfile
+      target: debug
+    env_file: ./src/api/development.env
+    command: tail -f /dev/null
+    depends_on:
+      store:
+        condition: service_started
+      queue:
+        condition: service_started
+
+networks:
+  default:
+    external: true
+    name: kosh-v2_tattle
+
